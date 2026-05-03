@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+supabase
+python-dotenv
+pywa # WhatsApp Cloud API wrapper (ensure it's the correct one, e.g., pywa-automate or similar if that's what you used)
+httpx # For making API calls (sync and async)
+
+# Added for Google Sheets
+google-api-python-client
+google-auth
+google-auth-httplib2 # often a dependency of google-auth with httplib2
+google-auth-oauthlib # for service accounts and user auth flows
+
+# Optional, but good for type hinting and pydantic models in FastAPI
+pydantic
+
+# Add any other specific libraries you might be using
+# e.g., for date parsing if not using standard library: python-dateutil

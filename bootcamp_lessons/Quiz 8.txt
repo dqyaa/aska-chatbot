@@ -1,0 +1,68 @@
+Question 1:
+
+What is the main purpose of AI ethics?
+
+a) To make AI more powerful.
+
+b) To establish rules for AI development and use.    
+
+c) To replace human decision-making.
+
+d) To accelerate AI development.
+
+
+Question 2:
+
+Which of the following is an ethical question raised in the text?
+
+a) How can AI perform tasks faster?
+
+b) Should AI be used for mass surveillance?    
+
+c) What is the best programming language for AI?
+
+d) How can AI generate more data?
+
+    
+
+Question 3:
+
+According to the text, what is a potential consequence of AI-generated media?
+
+a) Increased privacy.
+
+b) The spread of misinformation.    
+
+c) Enhanced creativity.
+
+d) Improved communication.
+
+  
+
+Question 4:
+
+Which of the following is a key principle of ethical AI?
+
+a) Maximizing data collection.
+
+b) Respect for human rights.    
+
+c) Keeping AI systems secret.
+
+d) Prioritizing efficiency over fairness.
+
+ 
+
+Question 5:
+
+What should AI be used for, according to the principle of beneficence?
+
+a) To replace human labor.
+
+b) To benefit humanity.    
+
+c) To create more advanced AI.
+
+d) To maximize profit.
+
+ 

@@ -1,0 +1,65 @@
+Question 1:
+
+Which of the following best describes the relationship between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)?    
+
+a) AI is a subset of ML, and ML is a subset of DL.
+
+b) ML is a subset of AI, and DL is a subset of ML.
+
+c) DL is the overarching field, and AI and ML are subsets.
+
+d) AI, ML, and DL are all separate and unrelated fields.
+
+
+Question 2:
+
+In Supervised Learning, how does AI learn?    
+
+a) By exploring data and finding patterns without guidance.
+
+b) By being trained on unlabeled data.
+
+c) By being trained on labeled data with correct answers provided.
+
+d) By mimicking human behavior.
+
+
+Question 3:
+
+Which of the following is an example of Unsupervised Learning?    
+
+a) Email spam filters
+
+b) Face recognition
+
+c) Customer segmentation
+
+d) Self-driving cars
+
+
+Question 4:
+
+What is the function of the "hidden layers" in a neural network?    
+
+a) To input data into the network.
+
+b) To provide the final answer.
+
+c) To process data and find patterns.
+
+d) To control robots.
+
+
+
+Question 5:
+
+Which of the following is NOT an example of Natural Language Processing (NLP)?    
+
+a) Translation (Google Translate)
+
+b) Voice Assistants (Siri, Alexa)
+
+c) Object Detection (identifying cats)
+
+d) Text Summarization (ChatGPT)
+

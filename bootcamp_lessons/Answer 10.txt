@@ -1,0 +1,9 @@
+1. Answer: b) Huge amounts of text data from the internet.
+
+2. Answer: c) To train it for specific tasks.
+
+3. Answer: c) Because they have billions of parameters and are trained on trillions of data points.
+
+4. Answer: c) What you type in to tell the LLM what to do.
+
+5. Answer: c) Dialog-tuned LLMs.

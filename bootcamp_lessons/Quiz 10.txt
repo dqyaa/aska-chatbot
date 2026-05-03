@@ -1,0 +1,66 @@
+Question 1:
+
+What are Large Language Models (LLMs) trained on?
+
+a) Images and videos from the internet.
+
+b) Huge amounts of text data from the internet.    
+
+c) Sound recordings and music.
+
+d) Scientific and mathematical formulas.
+
+
+
+Question 2:
+
+What is the purpose of "fine-tuning" an LLM?
+
+a) To give it general knowledge.    
+
+b) To make it understand basic commands.
+
+c) To train it for specific tasks.    
+
+d) To increase the number of its parameters.
+
+
+Question 3:
+
+Why are LLMs considered "large"?
+
+a) Because they are physically very big.
+
+b) Because they are trained on a small amount of data.
+
+c) Because they have billions of parameters and are trained on trillions of data points.    
+
+d) Because they can only perform one task.
+
+
+
+Question 4:
+
+What is a "prompt" in the context of LLMs?
+
+a) A type of AI architecture.
+
+b) The data used to train LLMs.
+
+c) What you type in to tell the LLM what to do.    
+
+d) A way to fine-tune LLMs.
+
+
+Question 5:
+
+Which of the following is a type of LLM designed to have conversations?
+
+a) Generic LLMs.    
+
+b) Instruction-tuned LLMs.    
+
+c) Dialog-tuned LLMs.    
+
+d) Pre-trained LLMs.
+

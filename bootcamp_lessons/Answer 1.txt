@@ -1,0 +1,9 @@
+1. Answer: b) ML is a subset of AI, and DL is a subset of ML
+
+2. Answer: c) By being trained on labeled data with correct answers provided
+
+3. Answer: c) Customer segmentation
+
+4. Answer: c) To process data and find patterns
+
+5. Answer: c) Object Detection (identifying cats)

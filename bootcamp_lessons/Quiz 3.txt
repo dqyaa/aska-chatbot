@@ -1,0 +1,64 @@
+Question 1:
+
+What is another term for Weak AI?
+
+a) General AI
+
+b) Super AI
+
+c) Narrow AI
+
+d) Strong AI
+  
+
+Question 2:
+
+Which of the following is a characteristic of Strong AI?
+
+a) It is currently widely used in commercial applications.
+
+b) It is limited to performing specific tasks.
+
+c) It possesses self-awareness and emotional intelligence.    
+
+d) It operates primarily through pattern recognition.
+  
+
+Question 3:
+
+Which type of AI is capable of solving novel problems and demonstrating creativity?
+
+a) Weak AI
+
+b) Narrow AI
+
+c) Strong AI    
+
+d) Super AI
+
+
+Question 4:
+
+Which of the following is an example of Weak AI?
+
+a) An AI that can surpass human intelligence in all aspects.
+
+b) An AI with self-awareness.
+
+c) ChatGPT    
+
+d) An AI that can learn any intellectual task a human can.
+
+
+Question 5:
+
+What is a key difference between Weak AI and Strong AI?
+
+a) Weak AI is theoretical, while Strong AI is widely used.
+
+b) Weak AI can perform a wide range of intellectual tasks, while Strong AI is limited to specific tasks.
+
+c) Weak AI lacks self-awareness, while Strong AI would possess it.    
+
+d) Weak AI is based on pattern recognition, while Strong AI is not.
+

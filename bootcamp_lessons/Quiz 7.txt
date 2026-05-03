@@ -1,0 +1,65 @@
+Question 1:
+
+What is AI bias?
+
+a) AI's ability to learn quickly.
+
+b) AI's tendency to make fair and objective decisions.
+
+c) AI's unfair preference for certain outcomes or groups.    
+
+d) AI's capacity to process large amounts of data.
+ 
+
+Question 2:
+
+How does AI bias typically occur?
+
+a) During the output phase.
+
+b) During the testing phase.
+
+c) During the training phase, due to unrepresentative data.    
+
+d) AI bias occurs randomly.
+
+
+Question 3:
+
+Which of the following is a consequence of AI bias?
+
+a) Fair and equitable decisions.
+
+b) Increased accuracy in AI systems.
+
+c) Unfair or discriminatory decisions.    
+
+d) Enhanced diversity in AI training data.
+   
+
+Question 4:
+
+What is a crucial step in addressing AI bias?
+
+a) Using limited datasets.
+
+b) Training AI systems with diverse data.    
+
+c) Avoiding regular testing.
+
+d) Ignoring the issue of bias.
+
+    
+
+Question 5:
+
+Why is building awareness about AI bias important?
+
+a) To discourage the development of AI.
+
+b) To ensure AI systems are always perfect.
+
+c) To promote solutions and responsible AI development.    
+
+d) It is not important.
+

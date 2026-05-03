@@ -1,0 +1,62 @@
+Question 1:
+
+Which of the following figures is credited with proposing the "Turing Test"?
+
+a)  Alan Turing    
+
+b)  Garry Kasparov
+
+c)  IBM's Deep Blue
+
+d)  Talos
+
+
+Question 2:
+
+In what decade was the term "Artificial Intelligence" officially coined?
+
+a)  1940s
+
+b)  1950s    
+
+c)  1980s
+
+d)  2000s
+  
+
+Question 3:
+
+What was a major contributing factor to the "AI Winter" of the 1970s and 1980s?
+
+a)  Lack of interest in AI research.
+
+b)  Overpromising of AI capabilities and limited computing power.   
+
+c)  The success of AI in defeating the world chess champion.
+
+d)  The invention of the internet.
+ 
+
+Question 4:
+
+What significant event in AI history occurred in 1997?
+
+a)  The first Karakuri puppets were created.
+
+b)  The "AI Winter" ended.
+
+c)  IBM's Deep Blue defeated Garry Kasparov in chess.   
+
+d)  The Dartmouth College conference was held.
+
+Question 5:
+
+What factors contributed to the resurgence of AI in the 2010s?
+
+a)  Ancient myths and legends.
+
+b)  Big Data and enhanced computing power.   
+
+c)  The development of reactive robots.
+
+d)  The creation of Talos.

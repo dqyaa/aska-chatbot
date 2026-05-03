@@ -1,0 +1,9 @@
+1. Answer: c) Input, Training, Output 
+
+2. Answer: c) Data 
+
+3. Answer: d) Its model 
+
+4. Answer: b) Recommending a song    
+
+5. Answer: c) Model

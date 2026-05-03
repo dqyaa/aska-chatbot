@@ -1,0 +1,66 @@
+Question 1:
+
+What is the primary function of Generative AI (GenAI)?
+
+a) To analyze existing data.
+
+b) To create new content.
+
+c) To classify data.
+
+d) To predict future outcomes.
+
+
+
+Question 2:
+
+Which of the following is NOT something GenAI can typically generate?
+
+a) Stories and poems
+
+b) Images
+
+c) Music
+
+d) Financial reports
+
+
+Question 3:
+
+What is the relationship between AI, Machine Learning (ML), and Deep Learning?
+
+a) AI is a subset of ML, and ML is a subset of Deep Learning.
+
+b) Deep Learning is a subset of ML, and ML is a subset of AI.
+
+c) ML and Deep Learning are separate from AI.
+
+d) They are all different names for the same thing.
+
+
+Question 4:
+
+What is a "prompt" in the context of GenAI?
+
+a) A type of AI model.
+
+b) The data used to train AI.
+
+c) Instructions given to AI to generate content.
+
+d) A tool for analyzing data.
+
+
+
+Question 5:
+
+What is a potential drawback or challenge associated with GenAI?
+
+a) It cannot create diverse types of content.
+
+b) It always provides completely accurate information.
+
+c) It can sometimes generate false or made-up information (hallucinations).
+
+d) It is limited to only text-based tasks.
+

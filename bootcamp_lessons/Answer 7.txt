@@ -1,0 +1,9 @@
+1. Answer: c) AI's unfair preference for certain outcomes or groups.   
+
+2. Answer: c) During the training phase, due to unrepresentative data.    
+
+3. Answer: c) Unfair or discriminatory decisions. 
+
+4. Answer: b) Training AI systems with diverse data.
+
+5. Answer: c) To promote solutions and responsible AI development. 

@@ -1,0 +1,9 @@
+1. Answer: b) To create new content.    
+
+2. Answer: d) Financial reports    
+
+3. Answer: b) Deep Learning is a subset of ML, and ML is a subset of AI.    
+
+4. Answer: c) Instructions given to AI to generate content.    
+
+5. Answer: c) It can sometimes generate false or made-up information (hallucinations).  

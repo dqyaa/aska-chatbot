@@ -1,0 +1,64 @@
+Question 1:
+
+What are the three main steps in AI's learning process?
+
+a) Input, Analysis, Output
+
+b) Data, Training, Result
+
+c) Input, Training, Output
+
+d) Learning, Model, Prediction
+
+
+Question 2:
+
+What is the "stuff" that AI needs to learn called?
+
+a) Algorithms
+
+b) Models
+
+c) Data
+
+d) Neural Networks
+   
+
+Question 3:
+
+In the training process, what does the AI adjust to improve its understanding?
+
+a) Its input
+
+b) Its output
+
+c) Its algorithm
+
+d) Its model
+   
+
+Question 4:
+
+Which of the following is an example of AI output?
+
+a) Feeding pictures to an AI    
+
+b) Recommending a song    
+
+c) Analyzing data for patterns    
+
+d) Training a neural network    
+
+
+Question 5:
+
+What is the term for the AI's "brain" that improves with training?
+
+a) Algorithm
+
+b) Data
+
+c) Model
+
+d) Neural Network
+
